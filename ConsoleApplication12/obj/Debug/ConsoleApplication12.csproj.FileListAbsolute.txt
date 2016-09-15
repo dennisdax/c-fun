@@ -1,0 +1,20 @@
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+d:\documents\Projects\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+C:\Users\Super T\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.Form1.resources
+D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csproj.GenerateResource.Cache
