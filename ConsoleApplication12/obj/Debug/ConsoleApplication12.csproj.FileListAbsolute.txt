@@ -18,3 +18,11 @@ D:\Desktop\ConsoleApplication12\ConsoleApplication12\bin\Debug\ConsoleApplicatio
 D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
 D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.Form1.resources
 D:\Desktop\ConsoleApplication12\ConsoleApplication12\obj\Debug\ConsoleApplication12.csproj.GenerateResource.Cache
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe.config
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\obj\Debug\ConsoleApplication12.exe
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\obj\Debug\ConsoleApplication12.pdb
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\obj\Debug\ConsoleApplication12.csprojResolveAssemblyReference.cache
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\obj\Debug\ConsoleApplication12.Form1.resources
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\obj\Debug\ConsoleApplication12.csproj.GenerateResource.Cache
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\bin\Debug\ConsoleApplication12.exe
+C:\Users\Super T\Documents\GitHub\c-fun\ConsoleApplication12\bin\Debug\ConsoleApplication12.pdb
